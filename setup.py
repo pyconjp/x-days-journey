@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="xdays_journey",
-    version="0.1.0",
+    version="0.2.0",
     packages=find_packages(include=["xdays_journey"]),
     python_requires=">=3.7",
     classifiers=[
