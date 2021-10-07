@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="xdays_journey",
-    version="0.3.1",
+    version="0.3.2",
     packages=find_packages(include=["xdays_journey"]),
     python_requires=">=3.7",
     classifiers=[
@@ -12,6 +12,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
     ],
     url="https://github.com/pyconjp/x-days-journey",
     author="PyCon JP 2021 staff",
